@@ -3,4 +3,4 @@
 
 don't forget run `php artisan cache:clear`
 
-[https://laravel.ru/] (https://laravel.ru/)
+[https://laravel.ru/](https://laravel.ru/)
